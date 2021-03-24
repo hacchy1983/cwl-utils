@@ -17,7 +17,6 @@ baseCommand: [ bcftools, view ]
 inputs:
   vcf:
     type: File
-    format: edam:format_3016
     doc: A VCF file containing variants
     secondaryFiles:
       - .tbi
