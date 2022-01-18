@@ -1,8 +1,8 @@
 #!/usr/bin/env cwl-runner
 
 class: CommandLineTool
-id: bcftools-view-filter-by-regions
-label: bcftools-view-filter-by-regions
+id: bcftools-query-l
+label: bcftools-query-l
 cwlVersion: v1.1
 
 $namespaces:
